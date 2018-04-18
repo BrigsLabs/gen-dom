@@ -12,25 +12,29 @@ stats.*
 tag.*
 telemetry.*
 # tracker.* #torrent tracker block ??
-# *.zer0day.*
 
 # My Macbook constantly sends a lot of useless queries to *.local,
 # so I block them. *.lan is apparently another common one, and
 # *.localdomain and *.workgroup are common on Windows.
 
-# *.lan
-# *.local
-# *.localdomain
-# *.workgroup
+*.lan
+*.local
+*.localdomain
+*.workgroup
 
 # eth0.me is hardcoded in tools such as Archey, but is not available any
 # more, causing issues such as terminal sessions taking a long time to
 # start.
 
-# eth0.me
+eth0.me
 
 # popup from kaskus.co.id
 sb188.*
 toto118.*
 clkad.*
 
+# time based
+# facebook.com
+# *.youtube.*
+# twitter.com
+# instagram.com

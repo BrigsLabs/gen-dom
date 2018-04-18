@@ -3,6 +3,7 @@
 ## This requires a time schedule to be defined in the
 ## dnscrypt-proxy.toml configuration file.
 
-# twitter.com       @work
-# facebook.com      @work
-# *.youtube.*       @time-to-sleep
+# twitter.com
+# facebook.com      
+# youtube.com     
+# instagram.com

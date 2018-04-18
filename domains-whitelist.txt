@@ -1,6 +1,5 @@
 # bank & affiliate
 paypal.com
-bitcoin.co.id
 indodax.com
 klikbca.com
 bca.co.id
@@ -15,12 +14,9 @@ maybank.co.id
 # online shop & escrow service
 bukalapak.com
 tokopedia.com
-bhinneka.com
-acehardware.com
 shopee.co.id
 olx.co.id
 blibli.com
-kaskus.co.id
 ebay.com
 aliexpress.com
 alibaba.com
@@ -44,7 +40,7 @@ time.windows.com
 officeclient.microsoft.com
 
 # Mac
-# apple.com
+apple.com
 
 # email service
 live.com
@@ -52,17 +48,17 @@ gmail.com
 yahoo.com
 
 # sosmed & chat app
-reddit.com
-whatsapp.com
-telegram.org
-line.me
-twitter.com
-skype.com
-spotify.com
+# reddit.com
+# whatsapp.com
+# telegram.org
+# line.me
+# twitter.com
+# skype.com
+# spotify.com
 
 # Online Games
-steampowered.com
+# steampowered.com
 
 # VPS & VPN
-ovh.net
+# ovh.net
 
