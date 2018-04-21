@@ -33,11 +33,12 @@ ubuntu.com
 linuxmint.com
 duckdns.org
 
-# windows feature exception
+# windows 10 & Office 2016 update exception
 virtualearth.net
 update.microsoft.com
 time.windows.com
 officeclient.microsoft.com
+client.wns.windows.com
 
 # Mac
 apple.com
@@ -47,7 +48,7 @@ live.com
 gmail.com
 yahoo.com
 
-# sosmed & chat app
+# sosmed & chat app (moved to domain-time-restricted_with-parental.txt)
 # reddit.com
 # whatsapp.com
 # telegram.org
@@ -56,7 +57,7 @@ yahoo.com
 # skype.com
 # spotify.com
 
-# Online Games
+# Online Games (moved to domain-time-restricted_with-parental.txt)
 # steampowered.com
 
 # VPS & VPN
