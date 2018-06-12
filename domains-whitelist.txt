@@ -39,6 +39,9 @@ update.microsoft.com
 time.windows.com
 officeclient.microsoft.com
 client.wns.windows.com
+support.microsoft.com
+storeedgefd.dsx.mp.microsoft.com
+store-images.s-microsoft.com
 
 # Mac
 apple.com
