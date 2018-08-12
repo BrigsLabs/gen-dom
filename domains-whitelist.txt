@@ -46,8 +46,13 @@ store-images.s-microsoft.com
 # Mac
 apple.com
 
+# Symantec Endpoint Update
+cs942.wpc.chicdn.net
+stats.qalabs.symantec.com
+
 # email service
 live.com
+outlook.com
 gmail.com
 yahoo.com
 
