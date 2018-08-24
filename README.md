@@ -18,26 +18,33 @@ Bambenek malware C2s.
 hpHosts’ Ad and tracking servers.
 MVPS HOSTS.
 Abuse.ch Ransomware Tracker.
+Abuse.ch Zeus Tracker.
 Malware Domain List.
 Adblock Warning Removal List.
 EasyList.
 ABPIndo.
-Fanboy’s Social Blocking List.
 Peter Lowe’s Ad and tracking server list.
 Spam404.
+Motomo.org - Spam List.
 CJX Annoyance List.
 EU: Prebake - Filter Obtrusive Cookie Notices.
-Malvertising filter list by Disconnect.
-Malware filter list by Disconnect.
-Basic tracking list by Disconnect.
+Disconnect.me - Malware & adv List.
+mitchellkrogza List.
+MetaMask - ETH phising site.
+AdsBlock - NoCoin List.
+StevenBlack List.
 Sysctl list (ads).
 KAD host file (fraud/adware).
 BarbBlock list (spurious and invalid DMCA takedowns).
 Dan Pollock's hosts list.
 NoTracking's list - blocking ads, trackers and other online garbage.
+CoinBlockerLists: blocks websites serving cryptocurrency miners.
+Yhonay Anti PopUps Ads.
+Alexa Top 500 tracker.
 
 # Porn & Gambler Blocker list 
-Clefspeare13 list
+Clefspeare13 list.
 Sinfonietta list.
 WowDude list.
 blockall list.
+Unified Porn List by EnergizedProtection.

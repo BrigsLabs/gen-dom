@@ -19,6 +19,7 @@ telemetry.*
 
 *.lan
 *.local
+*.localnet
 *.localdomain
 *.workgroup
 
@@ -26,12 +27,13 @@ telemetry.*
 # more, causing issues such as terminal sessions taking a long time to
 # start.
 
-eth0.me
+# eth0.me
 
 # popup from kaskus.co.id
 sb188.*
 toto118.*
 clkad.*
+z6naousb.com
 
 # time based
 # facebook.com
