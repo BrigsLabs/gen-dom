@@ -11,7 +11,7 @@ oascentral.*
 stats.*
 tag.*
 telemetry.*
-# tracker.* #torrent tracker block ??
+# tracker.* // should anykind torrent be blocked ??
 
 # My Macbook constantly sends a lot of useless queries to *.local,
 # so I block them. *.lan is apparently another common one, and
@@ -29,11 +29,25 @@ telemetry.*
 
 # eth0.me
 
-# popup from kaskus.co.id
+# definitely unclassified malware domain
 sb188.*
 toto118.*
 clkad.*
 z6naousb.com
+zer0day.*
+naosecgomosec.gq
+killermansopitu.com
+karnevallizdageil.com
+idontlikeitwhenyoudoit.ru
+merhabaslm.su
+ichockealotkrug.com
+wheniseeyourdedows.com
+justreggitifyouknowit.ru
+himynameisnoah.su
+iliketopunchnoah.com
+
+# starnet tracker
+# qw.startnet.net.id
 
 # time based
 # facebook.com
