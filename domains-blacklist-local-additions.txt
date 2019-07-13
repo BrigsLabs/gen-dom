@@ -11,7 +11,10 @@ oascentral.*
 stats.*
 tag.*
 telemetry.*
-# tracker.* // should anykind torrent be blocked ??
+tracker.*
+tracking.*
+torrent.*
+torrent*.*
 
 # My Macbook constantly sends a lot of useless queries to *.local,
 # so I block them. *.lan is apparently another common one, and
@@ -26,15 +29,20 @@ telemetry.*
 # eth0.me is hardcoded in tools such as Archey, but is not available any
 # more, causing issues such as terminal sessions taking a long time to
 # start.
+eth0.me
 
-# eth0.me
+# ibpxl.com is a tracker that seems to frequently have issues, causing
+# page loads to stall.
+ibpxl.com
+
+# ditto for that one
+internetbrands.com
 
 # definitely unclassified malware domain
 sb188.*
 toto118.*
 clkad.*
 z6naousb.com
-zer0day.*
 naosecgomosec.gq
 killermansopitu.com
 karnevallizdageil.com
@@ -45,6 +53,13 @@ wheniseeyourdedows.com
 justreggitifyouknowit.ru
 himynameisnoah.su
 iliketopunchnoah.com
+windows.net
+imhafiz.info
+
+# Ads
+spiroox.com
+romandaningri.info
+uzone.id
 
 # starnet tracker
 # qw.startnet.net.id

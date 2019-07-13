@@ -1,0 +1,165 @@
+### Apps Calling (Windows Based) Home Blacklist ###
+
+# Corel Draw 2019 or lower
+mc.corel.com
+apps.corel.com
+origin-mc.corel.com
+iws.corel.com
+compute-1.amazonaws.com  
+ipm.corel.com  
+dev1.ipm.corel.public.corel.net
+
+# Photoshop 2019
+3dns-1.adobe.com 
+3dns-2.adobe.com 
+3dns-3.adobe.com 
+3dns-4.adobe.com 
+3dns*.adobe.com 
+a652.dscb.akamai.net
+accounts.adobe.com
+acroipm2.adobe.com # Anmeldung
+activate*.*.adobe.com
+activate-sea.adobe.com 
+activate-sjc0.adobe.com 
+activate.wip1.adobe.com 
+activate.wip2.adobe.com 
+activate.wip3.adobe.com 
+activate.wip4.adobe.com 
+activate.wip.adobe.com 
+adobeku.com
+adobe-dns-1.adobe.com 
+adobe-dns-2.adobe.com 
+adobe-dns-3.adobe.com 
+adobe-dns-4.adobe.com 
+adobe-dns-[0-9]*.adobe.com 
+adobeereg.com
+adobe-oobe-prod-data-store-ue1.s3.amazonaws.com
+adobe.tt.omtrdc.net
+api.typekit.com
+armmf.adobe.com # Updates
+cc-api-data.adobe.io
+cc-api-storage.adobe.io
+cc-collab.adobe.io
+ccmdls.adobe.com # DL
+cdn-ffc.oobesaas.adobe.com
+cloud.acrobat.com
+cmdls.adobe.com 
+creative.adobe.com
+crlog-crcn.adobe.com
+crl.usertrust.com.cdn.cloudflare.net
+crl.verisign.net 
+ereg.*.adobe.com 
+ereg.wip1.adobe.com 
+ereg.wip2.adobe.com 
+ereg.wip3.adobe.com 
+ereg.wip4.adobe.com 
+ereg.wip.adobe.com 
+ets-prd1-ue1-coll-elb-122061436.us-east-1.elb.amazonaws.com
+ffc.adobe.io
+ffc-icons.oobesaas.adobe.com
+files.acrobat.com
+genuine.adobe.com # Hintergrundtask / Validierung
+gocart-web-prod-ue1-477818442.us-east-1.elb.amazonaws.com # AdobeCGclient
+hbrcv.adobe.com
+hbrt.adobe.com
+hl2rcv.adobe.com 
+ims-na1.adobelogin.com
+ims-*.adobelogin.com
+ims-prod06.adobelogin.com
+ims-prod07.adobelogin.com
+lcs-cops.adobe.io # Teilweise Base64 codiert Eindeutige GeräteID, Fingerprint, eindeutige NutzerID, Zeitstempel, Gerätename z.b. Desktop Karl-Heinz, Betriebssystem, Produktname, Sprache uvm., Lizenzmodell, Tracking aktiviert ja/nein, Seriennummer
+lcs-robs.adobe.io # Abgleich der vorherigen Adresse
+lcs-*.adobe.io
+licensing.adobe.com
+lightroom.adobe.com
+lm.licenses.adobe.com
+*.licenses.adobe.com
+lmlicenses.wip4.adobe.com
+na1e-acc.services.adobe.com
+na1r.services.adobe.com
+na2m-pr.licenses.adobe.com 
+oobe.adobe.com
+ood.opsource.net 
+p13n.adobe.io
+performance.typekit.net
+practivate.adobe.*
+practivate.adobe.com
+practivate.adobe.ipp 
+practivate.adobe.newoa 
+practivate.adobe.ntp 
+prod.adobegenuine.com
+prod-rel-ffc-ccm.oobesaas.adobe.com 
+psbutler.adobe.com
+psbutler.tt.omtrdc.net
+psdk.adobe.io
+resources.licenses.adobe.com
+uds.licenses.adobe.com
+wip1.adobe.com 
+wip2.adobe.com 
+wip3.adobe.com 
+wip4.adobe.com 
+wip[0-9]*.adobe.com 
+workflow.licenses.adobe.com
+wwis-dubc1-vip60.adobe.com 
+swupmf.adobe.com
+
+# Nitro Pro
+# Ip/s blockieren:
+# 104.16.119.102
+# 104.16.158.102
+# Setup
+desktop.gonitro.com # GeräteID, Setup erfolgreich gestartet, Produktversion
+
+# FOXIT SOFTWARE INC.
+# PhantomPDF
+globe-active.foxitservice.com
+cws.connectedpdf.com
+us-request.foxitservice.com
+platform.foxitcloud.com
+logger.foxitcloud.com
+
+# CCleaner Version 5.55.7108 und höher
+analytics.ff.avast.com # Analytics aktivieren sich bei jeder! Nutzeraktion
+analytics.ns1.ff.avast.com
+au.ff.avast.com
+*.ccleaner.com
+ccleaner.tools.avcdn.net
+download.ccleaner.com
+emupdate.avcdn.net
+ip-info.*.avast.com
+ip-info.ff.avast.com
+ip-info.ns1.ff.avast.com
+ipm-provider.*.avast.com
+ipm-provider.ff.avast.com
+ipm-provider.ns1.ff.avast.com
+license.piriform.com # Aktivierungscheck/Server/Seriennummer
+secure.ccleaner.com # u.a. für die Erneuerung von Trialzeiten benötigt, Einkauf als auch für Informationen der eigentlichen Shopseite
+service.piriform.com
+shepherd.*.avast.com
+shepherd.ff.avast.com
+shepherd.ns1.ff.avast.com
+softwareupdatechecker.live-everest-media.net
+verify.ccleaner.com
+
+# mobogenie
+mobogenie.com
+
+# DriverPack Update
+update.drp.su
+
+# Eset AV tracker
+pico.eset.*
+proxy-detection.eset.*
+*.e5.sk
+# iploc.eset.*
+# trace.eset.*
+
+# Speed Commander
+*.sp-license.de
+
+# Diskeeper
+esm.condusiv.com
+esm.diskeeper.com
+
+# Freemake video editor
+report.freemake.com

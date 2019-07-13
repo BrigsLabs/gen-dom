@@ -5,7 +5,7 @@
 
 twitter.com 
 facebook.com     
-youtube.com      
+*.youtube.*     
 instagram.com    
 whatsapp.com
 telegram.org

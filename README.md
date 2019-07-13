@@ -13,7 +13,10 @@ add script dns-block-upd.sh or dns-block-with-parental.sh to your crontab.
 add domain-blacklist.txt to your path inside dnscrypt.proxy.toml.
 
 # list're generating from combining & customize
+Energized Extension Tracker & Analytic.
 Windows 10, 8.1, 7 spy tracker list.
+App Domain Noise Calling Home.
+Torrent Tracker.
 Bambenek malware C2s.
 hpHosts’ Ad and tracking servers.
 MVPS HOSTS.
@@ -41,6 +44,8 @@ NoTracking's list - blocking ads, trackers and other online garbage.
 CoinBlockerLists: blocks websites serving cryptocurrency miners.
 Yhonay Anti PopUps Ads.
 Alexa Top 500 tracker.
+Mobile Ads Tracker.
+RU AdList.
 
 # Porn & Gambler Blocker list 
 Clefspeare13 list.
@@ -48,3 +53,4 @@ Sinfonietta list.
 WowDude list.
 blockall list.
 Unified Porn List by EnergizedProtection.
+Fork VPN-List by MrGForse

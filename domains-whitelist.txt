@@ -22,6 +22,9 @@ aliexpress.com
 alibaba.com
 amazon.com
 
+# exception cosmetic & function for bukalapak.com, tokopedia.com etc
+visualwebsiteoptimizer.com
+
 # linux & opensource
 github.com
 github.io
@@ -42,19 +45,32 @@ client.wns.windows.com
 support.microsoft.com
 storeedgefd.dsx.mp.microsoft.com
 store-images.s-microsoft.com
+officecdn.microsoft.com
+officecdn.microsoft.com.edgesuite.net
 
 # Mac
 apple.com
 
-# Symantec Endpoint Update
-cs942.wpc.chicdn.net
-stats.qalabs.symantec.com
+# Symantec Endpoint Update // uncomment if necessary
+# cs942.wpc.chicdn.net
+# stats.qalabs.symantec.com
 
 # email service
 live.com
 outlook.com
 gmail.com
 yahoo.com
+tutanota.com
+
+# Google Feature
+gstatic.com
+googleapis.com
+
+# Short Url Service
+bit.ly
+
+# Web Service helper
+cloudfront.net
 
 # sosmed & chat app (moved to domain-time-restricted_with-parental.txt)
 # reddit.com
