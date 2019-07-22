@@ -51,7 +51,7 @@ officecdn.microsoft.com.edgesuite.net
 # Mac
 apple.com
 
-# Symantec Endpoint Update // uncomment if necessary
+# Symantec Endpoint Update // uncomment if needed
 # cs942.wpc.chicdn.net
 # stats.qalabs.symantec.com
 
@@ -66,8 +66,8 @@ tutanota.com
 gstatic.com
 googleapis.com
 
-# Short Url Service
-bit.ly
+# Short Url Service // uncomment if needed
+# bit.ly
 
 # Web Service helper
 cloudfront.net

@@ -147,12 +147,15 @@ mobogenie.com
 # DriverPack Update
 update.drp.su
 
-# Eset AV tracker
-pico.eset.*
-proxy-detection.eset.*
+# Eset AV tracker move to tunnel VPN
+pico.eset.com
+proxy-detection.eset.com
 *.e5.sk
-# iploc.eset.*
-# trace.eset.*
+iploc.eset.com
+trace.eset.com
+# update.eset.com
+# repository.eset.com
+# repositorynocdn.eset.com
 
 # Speed Commander
 *.sp-license.de

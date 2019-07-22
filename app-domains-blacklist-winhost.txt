@@ -1,0 +1,152 @@
+### Apps Calling (Windows Based) Home Blacklist ###
+
+# Corel Draw 2019 or lower
+127.0.0.1 mc.corel.com
+127.0.0.1 apps.corel.com
+127.0.0.1 origin-mc.corel.com
+127.0.0.1 iws.corel.com
+127.0.0.1 compute-1.amazonaws.com  
+127.0.0.1 ipm.corel.com  
+127.0.0.1 dev1.ipm.corel.public.corel.net
+
+# Photoshop 2019
+127.0.0.1 3dns-1.adobe.com 
+127.0.0.1 3dns-2.adobe.com 
+127.0.0.1 3dns-3.adobe.com 
+127.0.0.1 3dns-4.adobe.com 
+127.0.0.1 a652.dscb.akamai.net
+127.0.0.1 accounts.adobe.com
+127.0.0.1 acroipm2.adobe.com 
+127.0.0.1 activate-sea.adobe.com 
+127.0.0.1 activate-sjc0.adobe.com 
+127.0.0.1 activate.wip1.adobe.com 
+127.0.0.1 activate.wip2.adobe.com 
+127.0.0.1 activate.wip3.adobe.com 
+127.0.0.1 activate.wip4.adobe.com 
+127.0.0.1 activate.wip.adobe.com 
+127.0.0.1 adobeku.com
+127.0.0.1 adobe-dns-1.adobe.com 
+127.0.0.1 adobe-dns-2.adobe.com 
+127.0.0.1 adobe-dns-3.adobe.com 
+127.0.0.1 adobe-dns-4.adobe.com 
+127.0.0.1 adobeereg.com
+127.0.0.1 adobe-oobe-prod-data-store-ue1.s3.amazonaws.com
+127.0.0.1 adobe.tt.omtrdc.net
+127.0.0.1 api.typekit.com
+127.0.0.1 armmf.adobe.com 
+127.0.0.1 cc-api-data.adobe.io
+127.0.0.1 cc-api-storage.adobe.io
+127.0.0.1 cc-collab.adobe.io
+127.0.0.1 ccmdls.adobe.com
+127.0.0.1 cdn-ffc.oobesaas.adobe.com
+127.0.0.1 cloud.acrobat.com
+127.0.0.1 cmdls.adobe.com 
+127.0.0.1 creative.adobe.com
+127.0.0.1 crlog-crcn.adobe.com
+127.0.0.1 crl.usertrust.com.cdn.cloudflare.net
+127.0.0.1 crl.verisign.net 
+127.0.0.1 ereg.wip1.adobe.com 
+127.0.0.1 ereg.wip2.adobe.com 
+127.0.0.1 ereg.wip3.adobe.com 
+127.0.0.1 ereg.wip4.adobe.com 
+127.0.0.1 ereg.wip.adobe.com 
+127.0.0.1 ets-prd1-ue1-coll-elb-122061436.us-east-1.elb.amazonaws.com
+127.0.0.1 ffc.adobe.io
+127.0.0.1 ffc-icons.oobesaas.adobe.com
+127.0.0.1 files.acrobat.com
+127.0.0.1 genuine.adobe.com 
+127.0.0.1 gocart-web-prod-ue1-477818442.us-east-1.elb.amazonaws.com
+127.0.0.1 hbrcv.adobe.com
+127.0.0.1 hbrt.adobe.com
+127.0.0.1 hl2rcv.adobe.com 
+127.0.0.1 ims-na1.adobelogin.com
+127.0.0.1 ims-prod06.adobelogin.com
+127.0.0.1 ims-prod07.adobelogin.com
+127.0.0.1 lcs-cops.adobe.io 
+127.0.0.1 lcs-robs.adobe.io
+127.0.0.1 licensing.adobe.com
+127.0.0.1 lightroom.adobe.com
+127.0.0.1 lm.licenses.adobe.com
+127.0.0.1 lmlicenses.wip4.adobe.com
+127.0.0.1 na1e-acc.services.adobe.com
+127.0.0.1 na1r.services.adobe.com
+127.0.0.1 na2m-pr.licenses.adobe.com 
+127.0.0.1 oobe.adobe.com
+127.0.0.1 ood.opsource.net 
+127.0.0.1 p13n.adobe.io
+127.0.0.1 performance.typekit.net
+127.0.0.1 practivate.adobe.com
+127.0.0.1 practivate.adobe.ipp 
+127.0.0.1 practivate.adobe.newoa 
+127.0.0.1 practivate.adobe.ntp 
+127.0.0.1 prod.adobegenuine.com
+127.0.0.1 prod-rel-ffc-ccm.oobesaas.adobe.com 
+127.0.0.1 psbutler.adobe.com
+127.0.0.1 psbutler.tt.omtrdc.net
+127.0.0.1 psdk.adobe.io
+127.0.0.1 resources.licenses.adobe.com
+127.0.0.1 uds.licenses.adobe.com
+127.0.0.1 wip1.adobe.com 
+127.0.0.1 wip2.adobe.com 
+127.0.0.1 wip3.adobe.com 
+127.0.0.1 wip4.adobe.com 
+127.0.0.1 workflow.licenses.adobe.com
+127.0.0.1 wwis-dubc1-vip60.adobe.com 
+127.0.0.1 swupmf.adobe.com
+
+# Nitro Pro
+127.0.0.1 desktop.gonitro.com 
+
+# FOXIT SOFTWARE INC.
+# PhantomPDF
+127.0.0.1 globe-active.foxitservice.com
+127.0.0.1 cws.connectedpdf.com
+127.0.0.1 us-request.foxitservice.com
+127.0.0.1 platform.foxitcloud.com
+127.0.0.1 logger.foxitcloud.com
+
+# CCleaner Version 5.55.7108 und höher
+127.0.0.1 analytics.ff.avast.com 
+127.0.0.1 analytics.ns1.ff.avast.com
+127.0.0.1 au.ff.avast.com
+127.0.0.1 ccleaner.tools.avcdn.net
+127.0.0.1 download.ccleaner.com
+127.0.0.1 emupdate.avcdn.net
+127.0.0.1 ip-info.ff.avast.com
+127.0.0.1 ip-info.ns1.ff.avast.com
+127.0.0.1 ipm-provider.ff.avast.com
+127.0.0.1 ipm-provider.ns1.ff.avast.com
+127.0.0.1 license.piriform.com 
+127.0.0.1 secure.ccleaner.com 
+127.0.0.1 service.piriform.com
+127.0.0.1 shepherd.ff.avast.com
+127.0.0.1 shepherd.ns1.ff.avast.com
+127.0.0.1 softwareupdatechecker.live-everest-media.net
+127.0.0.1 verify.ccleaner.com
+
+# mobogenie
+127.0.0.1 mobogenie.com
+
+# DriverPack Update
+127.0.0.1 update.drp.su
+
+# Eset AV tracker // move to tunneling
+127.0.0.1 pico.eset.com
+127.0.0.1 proxy-detection.eset.com
+# *.e5.sk
+127.0.0.1 iploc.eset.com
+127.0.0.1 trace.eset.com
+
+# Speed Commander
+127.0.0.1 sp-license.de
+
+# Diskeeper
+127.0.0.1 esm.condusiv.com
+127.0.0.1 esm.diskeeper.com
+
+# Freemake video editor
+127.0.0.1 report.freemake.com
+
+# IDM Download Manager
+127.0.0.1 registeridm.com
+127.0.0.1 internetdownloadmanager.com

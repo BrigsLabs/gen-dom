@@ -12,9 +12,10 @@ stats.*
 tag.*
 telemetry.*
 tracker.*
+*tracker*
 tracking.*
 torrent.*
-torrent*.*
+*torrent*.*
 
 # My Macbook constantly sends a lot of useless queries to *.local,
 # so I block them. *.lan is apparently another common one, and
