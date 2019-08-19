@@ -23,7 +23,10 @@ alibaba.com
 amazon.com
 
 # exception cosmetic & function for bukalapak.com, tokopedia.com etc
-visualwebsiteoptimizer.com
+# visualwebsiteoptimizer.com
+
+# List blockers miss blocking
+ransomwaretracker.abuse.ch
 
 # linux & opensource
 github.com
@@ -34,10 +37,11 @@ mxlinux.org
 launchpad.net
 ubuntu.com
 linuxmint.com
-duckdns.org
+# duckdns.org
 
-# windows 10 & Office 2016 update exception
+# windows 10 & Office 2016,2019 update exception
 virtualearth.net
+www.bing.com
 update.microsoft.com
 time.windows.com
 officeclient.microsoft.com
@@ -47,13 +51,10 @@ storeedgefd.dsx.mp.microsoft.com
 store-images.s-microsoft.com
 officecdn.microsoft.com
 officecdn.microsoft.com.edgesuite.net
+logincdn.msauth.net
 
 # Mac
 apple.com
-
-# Symantec Endpoint Update // uncomment if needed
-# cs942.wpc.chicdn.net
-# stats.qalabs.symantec.com
 
 # email service
 live.com
@@ -62,15 +63,18 @@ gmail.com
 yahoo.com
 tutanota.com
 
+# Browser etc
+addons.mozilla.org
+
 # Google Feature
 gstatic.com
 googleapis.com
 
-# Short Url Service // uncomment if needed
+# Short Url Service
 # bit.ly
 
 # Web Service helper
-cloudfront.net
+# cloudfront.net
 
 # sosmed & chat app (moved to domain-time-restricted_with-parental.txt)
 # reddit.com
@@ -87,3 +91,5 @@ cloudfront.net
 # VPS & VPN
 # ovh.net
 
+# bbedit for mac
+# www.barebones.com

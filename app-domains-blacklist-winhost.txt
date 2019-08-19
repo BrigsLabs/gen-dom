@@ -133,8 +133,8 @@
 # Eset AV tracker // move to tunneling
 127.0.0.1 pico.eset.com
 127.0.0.1 proxy-detection.eset.com
-# *.e5.sk
-127.0.0.1 iploc.eset.com
+# 127.0.0.1 e5.sk // telemetry
+# 127.0.0.1 iploc.eset.com // activation required
 127.0.0.1 trace.eset.com
 
 # Speed Commander
@@ -150,3 +150,9 @@
 # IDM Download Manager
 127.0.0.1 registeridm.com
 127.0.0.1 internetdownloadmanager.com
+
+# BBedit for mac
+127.0.0.1 versioncheck.barebones.com
+
+# DxO PhotoLab2
+127.0.0.1 activation.dxo.com

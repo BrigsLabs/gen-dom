@@ -15,42 +15,15 @@ add domain-blacklist.txt to your path inside dnscrypt.proxy.toml.
 # list're generating from combining & customize
 Energized Extension Tracker & Analytic.
 Windows 10, 8.1, 7 spy tracker list.
-App Domain Noise Calling Home.
-Torrent Tracker.
-Bambenek malware C2s.
-hpHosts’ Ad and tracking servers.
-MVPS HOSTS.
+App Domain Noise Calling Home (Windows based).
+Torrent Tracker. // you should use vpn tunnel for safe torrenting.
+hpHosts’ Malware & Phising host.
 Abuse.ch Ransomware Tracker.
-Abuse.ch Zeus Tracker.
 Malware Domain List.
-Adblock Warning Removal List.
-EasyList.
-ABPIndo.
-Peter Lowe’s Ad and tracking server list.
-Spam404.
-Motomo.org - Spam List.
-CJX Annoyance List.
-EU: Prebake - Filter Obtrusive Cookie Notices.
-Disconnect.me - Malware & adv List.
-mitchellkrogza List.
-MetaMask - ETH phising site.
-AdsBlock - NoCoin List.
-StevenBlack List.
-Sysctl list (ads).
-KAD host file (fraud/adware).
-BarbBlock list (spurious and invalid DMCA takedowns).
-Dan Pollock's hosts list.
+mitchellkrogza List // badboyz & active phising host.
 NoTracking's list - blocking ads, trackers and other online garbage.
-CoinBlockerLists: blocks websites serving cryptocurrency miners.
-Yhonay Anti PopUps Ads.
-Alexa Top 500 tracker.
-Mobile Ads Tracker.
-RU AdList.
+Mobile Ads & Tracker by Jawz101.
 
 # Porn & Gambler Blocker list 
-Clefspeare13 list.
-Sinfonietta list.
-WowDude list.
-blockall list.
 Unified Porn List by EnergizedProtection.
-Fork VPN-List by MrGForse
+

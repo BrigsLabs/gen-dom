@@ -9,7 +9,7 @@ compute-1.amazonaws.com
 ipm.corel.com  
 dev1.ipm.corel.public.corel.net
 
-# Photoshop 2019
+# Adobe CC&CS
 3dns-1.adobe.com 
 3dns-2.adobe.com 
 3dns-3.adobe.com 
@@ -147,7 +147,7 @@ mobogenie.com
 # DriverPack Update
 update.drp.su
 
-# Eset AV tracker move to tunnel VPN
+# Eset AV tracker // move to tunneling
 pico.eset.com
 proxy-detection.eset.com
 *.e5.sk
@@ -166,3 +166,13 @@ esm.diskeeper.com
 
 # Freemake video editor
 report.freemake.com
+
+# IDM Download Manager
+registeridm.com
+*.internetdownloadmanager.com
+
+# BBedit for mac
+versioncheck.barebones.com
+
+# DxO PhotoLab2
+activation.dxo.com

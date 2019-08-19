@@ -40,33 +40,26 @@ ibpxl.com
 internetbrands.com
 
 # definitely unclassified malware domain
-sb188.*
-toto118.*
-clkad.*
-z6naousb.com
-naosecgomosec.gq
-killermansopitu.com
-karnevallizdageil.com
-idontlikeitwhenyoudoit.ru
-merhabaslm.su
-ichockealotkrug.com
-wheniseeyourdedows.com
-justreggitifyouknowit.ru
-himynameisnoah.su
-iliketopunchnoah.com
-windows.net
-imhafiz.info
+# sb188.*
+# toto118.*
+# clkad.*
 
-# Ads
-spiroox.com
-romandaningri.info
-uzone.id
+# Phising Site
 
 # starnet tracker
 # qw.startnet.net.id
+
+# Ip tracker
+
+# suspicious
+# acs.telkom.net
+
+# Ads
+uzone.id
 
 # time based
 # facebook.com
 # *.youtube.*
 # twitter.com
 # instagram.com
+
